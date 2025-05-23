@@ -1,0 +1,8 @@
+results/
+uploads/
+AUCs/
+.idea/
+lightning_logs/
+result/
+__pycache__
+casanovo_v4_2_0.ckpt
